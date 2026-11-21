@@ -16,10 +16,6 @@ A small static site. No build step, no installs. Keep all the files together in 
 | `activity.html` | Activity: All, LinkedIn, Announcements, Twitter, Instagram, search |
 | `contact.html` | Contact |
 | `styles.css`, `script.js` | Styling (light and dark) and behaviour |
-| `photo.jpg` | Your portrait (placeholder for now) |
-| `favicon.png` | The small picture in the browser tab (placeholder, a crop of the portrait) |
-| `background.jpg` | The picture behind the glass on the Home page (placeholder for now) |
-| `Yemisi-Akinseli-CV.pdf` | Your CV, used by "View my resume" and "Download CV" |
 
 ## Replace the two placeholder pictures
 
@@ -32,9 +28,6 @@ A small static site. No build step, no installs. Keep all the files together in 
 
 Double-click `index.html`.
 
-## Put it online for free
-
-**Netlify:** go to app.netlify.com/drop and drag the whole folder onto the page.
 
 **GitHub Pages:** create a repository called `yourusername.github.io`, upload all the files, then choose the main branch in Settings > Pages.
 
@@ -50,6 +43,3 @@ Double-click `index.html`.
 
 The counts on the filter buttons are numbers typed into the HTML, so update them if you add or remove items.
 
-## Note on your CV file
-
-The PDF is the one you sent me, so it still shows your grade and class rank. Swap in a version without them if you'd rather not share those, keeping the same file name.
